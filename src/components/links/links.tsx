@@ -27,7 +27,7 @@ export const Links = () => {
 				<IoLogoGithub />
 				<p>Code auf GitHub einsehen</p>
 			</span>
-			<a href="#" target="_blank" rel="noreferrer">
+			<a href="https://pp.prshl.de" target="_blank" rel="noreferrer">
 				zur Sass-Version
 			</a>
 		</div>
