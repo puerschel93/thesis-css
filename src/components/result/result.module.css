@@ -1,5 +1,5 @@
 :root {
-	--result-columns: 1fr 6fr;
+	--result-columns: 2fr 6fr;
 }
 
 .result__container {
